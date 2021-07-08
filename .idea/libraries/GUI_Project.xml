@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="GUI_Project">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/GUI_Project.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../MathParser.org-mXparser-v.4.4.0-bin-only/MathParser.org-mXparser-v.4.4.0-bin-only/bin/jdk13/MathParser.org-mXparser-v.4.4.0-jdk13.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
