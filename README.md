@@ -28,7 +28,7 @@
 * * *
 
 * ## Project Description:
-  <p>This GUI Application takes a math expression with some limitations. Such as,
+  This GUI Application takes a math expression with some limitations. Such as,
 	
 	You should close every bracket that is opened to evaluate the expression.
 	
@@ -48,7 +48,7 @@ Some sample math expressions supported:
 	
 	"C(n,k)",
 	
-	"fib(n) = iff( n>1, fib(n-1)+fib(n-2); n=1, 1; n=0, 0)"</p>
+	"fib(n) = iff( n>1, fib(n-1)+fib(n-2); n=1, 1; n=0, 0)"
 
 * * *
 
