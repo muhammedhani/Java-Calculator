@@ -69,7 +69,7 @@
 
 * * *
 
-* ## External Library:
+* ## External Libraries:
 	* mXparser.
 
 * * *
