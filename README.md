@@ -34,7 +34,7 @@
 	
 	You should clear the textfield, by pressing "CLR" button, after each operation you perform.
   
-Some sample math expressions supported:
+  Some sample math expressions supported:
 	
 	"1+2",
 	
