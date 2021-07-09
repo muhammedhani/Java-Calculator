@@ -36,19 +36,19 @@
   
   Some sample math expressions supported:
 	
-	"1+2",
+		"1+2",
 	
-	"1+2/3+(4*5-10)",
+		"1+2/3+(4*5-10)",
 	
-	"2*x+sin(y)",
+		"2*x+sin(y)",
 	
-	"int( sqrt(1-x^2), x, -1, 1)",
+		"int( sqrt(1-x^2), x, -1, 1)",
 	
-	"sum(n, 1, 100, 1/n^2)",
+		"sum(n, 1, 100, 1/n^2)",
 	
-	"C(n,k)",
+		"C(n,k)",
 	
-	"fib(n) = iff( n>1, fib(n-1)+fib(n-2); n=1, 1; n=0, 0)"
+		"fib(n) = iff( n>1, fib(n-1)+fib(n-2); n=1, 1; n=0, 0)"
 
 * * *
 
